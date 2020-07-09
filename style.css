@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+ .chees{
+    background-color: darkgrey; 
+    box-shadow: floralwhite;
+    display: block;
+ }
